@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Shembull</title>
+</head>
+    <body>
+        <h1>Greetings!</h1>
+    </body>
+<script>
+
+function funksioni(hour){
+    
+    if (hour==0 && hour<10 || hour==10) {
+        greeting = "Good morning";
+    } 
+    if(hour>10 && hour<=17) {
+        greeting = "Good day";
+    } 
+    else {
+        greeting = "Good evening";
+  }
+  return greeting;
+}
+  let shprehja = funksioni(10.5);
+  document.writeln(shprehja);
+
+</script>
+</html>

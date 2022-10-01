@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ushtrimi i pare</title>
+    </head>
+<body>
+    <h1>Ushtrimi i pare</h1>
+</body>
+<script>
+    function funksioni(a,b,c){
+
+        if(a==0 || b==0){ 
+            a-=b;
+            b/=c;
+        }
+        if(a>0 && c>=1){
+            a+=b;
+            b*=c;
+        }
+        
+     return b<<c;
+    }
+    let variabla = funksioni(0,4,2);
+    document.writeln('Rezultati i fituar eshte: '+variabla);
+</script>
+</html>
