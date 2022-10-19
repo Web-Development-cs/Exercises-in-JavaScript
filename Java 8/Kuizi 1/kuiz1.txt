@@ -1,0 +1,15 @@
+Brenda cilit element HTML vendosim JavaScript?
+Cila është sintaksa e saktë JavaScript për të ndryshuar përmbajtjen e elementit HTML më poshtë?
+Ku është vendi i duhur për të futur një JavaScript?
+Cila është sintaksa e saktë për t'iu referuar një skripti të jashtëm të quajtur "xxx.js"?
+Skedari i jashtëm JavaScript duhet të përmbajë etiketën <script>.
+Si e shkruani "Hello World" në një mesazh alarmues?
+Si të krijoni një funksion në JavaScript?
+Si e quani një funksion të quajtur "myFunction"?
+Si mund të shtoni një koment në një JavaScript?
+Si të shkruani një deklaratë IF në JavaScript?
+Si fillon një cikli FOR?
+Si të futni një koment që ka më shumë se një rresht?
+Si e deklaroni një variabël JavaScript?
+Cili operator përdoret për t'i caktuar një vlerë një ndryshoreje?
+A është JavaScript e ndjeshme ndaj shkronjave të vogla?
